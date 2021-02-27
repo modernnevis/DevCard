@@ -108,3 +108,4 @@ C:\Users\HP O M E N\Documents\C#\aspCore\DevCard\DevCard_MVC\DevCard_MVC\bin\Deb
 C:\Users\HP O M E N\Documents\C#\aspCore\DevCard\DevCard_MVC\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\HP O M E N\Documents\C#\aspCore\DevCard\DevCard_MVC\DevCard_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\HP O M E N\Documents\C#\aspCore\DevCard\DevCard_MVC\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\HP O M E N\Documents\C#\aspCore\DevCard\DevCard_MVC\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
