@@ -6,7 +6,7 @@ namespace DevCard_MVC.ViewComponents
 {
     public class ProjectsViewComponent : ViewComponent
     {
-        public IViewComponentResult Invoke()
+        public IViewComponentResult Invoke(string name)
         {
             var projects = new List<Project>()
             {
